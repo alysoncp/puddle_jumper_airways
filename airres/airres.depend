@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590213814 source:c:\users\user\documents\c projects\airres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
